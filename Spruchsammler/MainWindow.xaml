@@ -1,0 +1,33 @@
+﻿<Window x:Class="Spruchsammler.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+mc:Ignorable="d"
+Title="Spruchsammler" Height="480.657" Width="586.496"
+Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid Margin="0,0,0,-6">
+        <Label Content="Sprüche" HorizontalAlignment="Left" Height="30"
+Margin="23,25,0,0" VerticalAlignment="Top" Width="106"/>
+        <Label Content="Spruchtext" HorizontalAlignment="Left" Height="30"
+Margin="23,268,0,0" VerticalAlignment="Top" Width="106"/>
+        <Label Content="Autor" HorizontalAlignment="Left" Height="30"
+Margin="23,353,0,0" VerticalAlignment="Top" Width="106"/>
+        <TextBox Name="tbxAutor" HorizontalAlignment="Left" Height="24"
+Margin="23,388,0,0" TextWrapping="Wrap" VerticalAlignment="Top"
+Width="384" Grid.ColumnSpan="2" TextChanged="Tbx_TextChanged"/>
+        <TextBox Name="tbxSpruchtext" HorizontalAlignment="Left" Height="24"
+Margin="23,303,0,0" TextWrapping="Wrap" VerticalAlignment="Top"
+Width="384" Grid.ColumnSpan="2" TextChanged="Tbx_TextChanged"/>
+        <Button Name="btnSpeichern" Content="speichern" HorizontalAlignment="Left"
+Height="24" Margin="445,388,0,0" VerticalAlignment="Top"
+Width="105" Click="BtnSpeichern_Click"/>
+        <ListBox Name="lbxSprüche" HorizontalAlignment="Left" Height="191"
+Margin="23,60,0,0" VerticalAlignment="Top" Width="384"
+Grid.ColumnSpan="2"
+SelectionChanged="LbxSprüche_SelectionChanged"/>
+        <Button Name="btnLöschen" Content="löschen" HorizontalAlignment="Left"
+Height="24" Margin="445,227,0,0" VerticalAlignment="Top"
+Width="105" Click="BtnLöschen_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler_Logik\obj\Debug\net5.0\Spruchsammler_Logik.csproj.AssemblyReference.cache
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler_Logik\obj\Debug\net5.0\Spruchsammler_Logik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler_Logik\obj\Debug\net5.0\Spruchsammler_Logik.AssemblyInfoInputs.cache
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler_Logik\obj\Debug\net5.0\Spruchsammler_Logik.AssemblyInfo.cs
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler_Logik\obj\Debug\net5.0\Spruchsammler_Logik.csproj.CoreCompileInputs.cache

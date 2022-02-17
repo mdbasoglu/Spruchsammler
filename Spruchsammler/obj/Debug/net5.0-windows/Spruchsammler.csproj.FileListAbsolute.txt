@@ -1,0 +1,10 @@
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler.csproj.AssemblyReference.cache
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler_MarkupCompile.cache
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler.g.resources
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler.AssemblyInfoInputs.cache
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler.AssemblyInfo.cs
+C:\Users\mdbas\Documents\Spruchsammler\Spruchsammler\obj\Debug\net5.0-windows\Spruchsammler.csproj.CoreCompileInputs.cache
